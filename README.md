@@ -1,5 +1,4 @@
-**
-**# Convert Image to Grayscale image using CUDA 
+# Convert Image to Grayscale image using CUDA  
 
 ## AIM:
 
@@ -17,8 +16,8 @@ The aim of this project is to demonstrate how to convert an image to grayscale u
 
 ## Program:
 ```
-  PROGRAM DEVELOPED BY: SIVABALAN S
-  REGISTER NUMBER:212222240100
+  PROGRAM DEVELOPED BY: DHARMARAJ S
+  REGISTER NUMBER:212222240025
 ```
 ```
 
